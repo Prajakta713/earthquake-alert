@@ -2,7 +2,7 @@
 
 A web application that displays real-time earthquake data from around the world using an interactive map.
 
-
+![App Screenshot](./assets/Screenshot%202025-05-28%20183556.png)
 ---
 
 ## 📌 Features
