@@ -31,3 +31,35 @@ A web application that displays real-time earthquake data from around the world 
 ```bash
 git clone https://github.com/Prajakta713/earthquake-alert.git
 cd earthquake-alert
+```
+### 2. Install dependencies
+
+```bash
+npm install
+```
+### 3. Run the app locally
+
+```bash
+npm start
+```
+Then open your browser and go to: http://localhost:3000
+
+---
+
+## 🌐 Live Demo
+Coming Soon!
+
+---
+
+## 📡 Data Source
+This app uses live data from the USGS Earthquake Hazards Program
+
+---
+
+## 📄 License
+This project is open-source under the MIT License
+
+---
+
+## ✨ Author
+Prajakta713
